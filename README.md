@@ -1,1 +1,67 @@
 # Make-Portfolio-using-HTML
+## Program :-
+<html>
+ <head>
+<title>Resume</title> 
+</head>
+<body style="background: rgb(136, 112, 245);">
+    <img src="21500780.jpg" alt="profile" align="right"width="10%"height="20%">
+
+<h2><u>About Me</u></h2>
+<hr></hr>
+<p><b>Name : Sarankumar J</b></p>
+<p><b>Degree : B.Tech Artificial Intelligence And Data Science</b></p>
+<p><b>College : <a href="https://saveetha.ac.in/">Saveetha Engineering College</b></p></a>
+<h2><u>Contact Details</u></h2>
+<hr></hr>
+<p><b>Mail : <a href="mailto:sarankumarjeyabalan@gmail.com">sarankumarjeyabalan@gmail.com</b></p></a>
+<p><b>Mobile No : <a href="+91 6379615515">+916379615515</b></p></a>
+<p><b>Linked in : <a href="https://www.linkedin.com/in/sarankumar-jeyabalan-773581234">Sarankumar Jeyabalan</b></p></a>
+<p><b>Twitter : <a href="https://twitter.com/SarankumarJeya1">Sarankumar Jeyabalan</b></p></a>
+<p><b>Instagram : <a href="https://www.instagram.com/itzz._.saran_/">itzz._.saran_</b></p></a>
+<p><b>Facebook : <a href="https://www.facebook.com/sarankumar.j.14?mibextid=ZbWKwL">Sarankumar Jeyabalan</b></p></a>
+            <h2><u>Educational Qualifications</u></h2>
+            <hr></hr>
+            <table width="40%" Height="10%">
+                    <td><b>Qualification</b></td>
+                    <td><b>Board</b></td>
+                    <td><b>Percentage / Grades</b></td>
+                    <td><b>Year</b></td>
+                <tr>
+                    <td>S.S.L.C</td>
+                    <td>GHSS</td>
+                    <td>75.57%</td>
+                    <td>2019</td>
+                </tr>
+                <tr>
+                    <td>H.S.C (Bio Maths)</td>
+                    <td>GHSS</td>
+                    <td>72.40%</td>
+                    <td>2021</td>
+                </tr>
+                <tr>
+                    <td>B.Tech AI&DS</td>
+                    <td>SEC</td>
+                    <td>A Grade</td>
+                    <td>2025</td>
+                </tr>
+              
+            </table>
+            <h2><u>Technical Skills</u></h2>
+            <hr></hr>
+            <p><span><b>Application Software : </b></span>Exel, Word, PPT And etc..</p>
+            <p><span><b>Programming Skills : </b></span>HTML, CSS, Python, C, Java</p>
+            <h2><u>Personal Information</u></h2>
+            <hr></hr>
+            <p><span><b>Languages Known : </b></span>Tamil, English</p>
+            <p><span><b>Hobbies : </b></span>Playing Chess, Swimming, Listening Music And etc..</p>
+            <h2><u>Other Information</u></h2>
+            <hr></hr>
+            <p><span><b>Expected Salary : </b></span>As per company standards</p>
+                
+            <p><span><b>Area of Interest : </b></span>App Development, Programming, Web Development, Data Scientist, Data Engineer</p>
+            
+     
+         </div>
+    </body>
+</html>
